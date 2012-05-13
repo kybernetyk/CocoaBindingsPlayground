@@ -6,7 +6,7 @@
 //
 
 /*
- This little projects demonstrates programmatic use of Cocoa bindings.
+ This little project demonstrates programmatic use of Cocoa bindings.
  
  We do the following:
  - Create bindings with the Interface Builder (button's title)
