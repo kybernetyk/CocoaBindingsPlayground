@@ -1,0 +1,15 @@
+ This little project demonstrates programmatic use of Cocoa bindings.
+ 
+ We do the following:
+ - Create bindings with the Interface Builder (button's title)
+ - Create bindigns programmatically for IB controls (theSlider, theLabel)
+ - Create bindings programmatically for a custom view (monsterView)
+ 
+ As you'll see bindings just work. There's some magic going on behind the scenes:
+ http://www.mikeash.com/pyblog/friday-qa-2009-01-23.html
+ 
+ This is especially useful for custom views - as long as you name your accessors
+ in a KVO compilant way bindings will work automagically.
+
+
+License: really? Public Domain
