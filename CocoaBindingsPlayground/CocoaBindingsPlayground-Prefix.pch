@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CocoaBindingsPlayground' target in the 'CocoaBindingsPlayground' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif
